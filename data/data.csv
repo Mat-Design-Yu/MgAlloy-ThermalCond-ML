@@ -1,1 +1,139 @@
-data here,,
+﻿Formula [at.%],Ref,T [K],λ [W·m-1·K-1],σ [S·m-1],,,,,Reference,URL,Year,Type,Journal
+Mg96.51Al1.13Zn2.36,1,300,80.62,11617600,,,,,1,https://doi.org/10.1179/1743284713Y.0000000401,2014,J,Materials Science and Technology
+Mg95.57Al3.75Zn0.68,1,300,59.5,8305765.003,,,,,2,https://doi.org/10.1016/j.actamat.2014.07.063,2014,J,Acta Materialia
+Mg91.37Al7.33Zn1.3,1,300,48.05,6659751.221,,,,,3,https://doi.org/10.1007/s10853-013-8012-3,2014,J,Journal of Materials Science
+Mg99.81Zn0.19,2,298,151.17839,20346376.72,,,,,4,https://doi.org/10.1088/2053-1591/aac99b,2018,J,Materials Research Express
+Mg99.48Al0.52,2,273,128.19523,18067075.83,,,,,5,https://doi.org/10.1016/S1003-6326(20)65340-7,2020,J,Transactions of Nonferrous Metals Society of China
+Mg99.35Mn0.65,2,298,109.45383,14233862.36,,,,,6,https://doi.org/10.1016/j.jallcom.2018.03.070,2018,J,Journal of Alloys and Compounds
+Mg98.08Zn1.92,2,273,114.75596,17026464.23,,,,,7,https://doi.org/10.1016/j.jallcom.2021.162943,2022,J,Journal of Alloys and Compounds
+Mg99.86Ca0.14,3,300,144.55682,21984600,,,,,8,https://doi.org/10.1016/j.jallcom.2014.04.107,2014,J,Journal of Alloys and Compounds
+Mg99.42Mn0.58,3,300,107.64163,14628900,,,,,9,https://doi.org/10.1016/j.jallcom.2019.07.267,2019,J,Journal of Alloys and Compounds
+Mg99.29Zn0.71,3,300,139.04173,20358600,,,,,10,https://doi.org/10.1016/B978-075067509-3/50017-8,2004,B,Smithells Metals Reference Book (Eighth Edition)
+Mg98.32Sn1.68,3,300,73.84771,9861700,,,,,11,https://doi.org/10.1016/j.jallcom.2014.09.199,2015,J,Journal of Alloys and Compounds
+Mg97.27Zn1.57Y1.16,4,298,95.61,13730000,,,,,12,https://doi.org/10.3390/ma11122376,2018,J,Materials & Design
+Mg97.3Zn2.19Cu0.51,5,298,124.1686,18667890,,,,,13,https://doi.org/10.1201/9780429265792,1974,B,Handbook of Materials Science Volume 1 General Properties
+Mg99.84Y0.16,6,298,140.1,,,,,,14,https://doi.org/10.1002/9780470905098,2010,B,"Magnesium, Magnesium Alloys, and Magnesium Composites"
+Mg99.82Ce0.18,6,298,143.8,,,,,,15,https://doi.org/10.1016/S0925-8388(99)00444-2,1999,J,Journal of Alloys and Compounds
+Mg99.68Sm0.32,6,298,113.7,,,,,,16,https://doi.org/10.1016/j.jallcom.2016.05.261,2016,J,Journal of Alloys and Compounds
+Mg99.21Zn0.18Mn0.02Ce0.48Si0.01La0.1,7,298,144.69373,18702200,,,,,17,https://doi.org/10.13289/j.issn.1009-6264.2012.04.009,2012,J,Journal of Materials Heat Treatment
+Mg99.5Al0.5,8,393,130.76185,,,,,,18,https://doi.org/10.27060/d.cnki.ghbcu.2023.001094,2023,D,"Harbin Engineering University, Master's degree"
+Mg99.1Al0.9,8,363,115.58935,,,,,,19,https://doi.org/10.27135/d.cnki.ghudu.2022.000748,2022,D,"Hunan University, Master's degree"
+Mg98.5Al1.5,8,333,102.24883,,,,,,20,https://doi.org/10.27307/d.cnki.gsjtu.2021.000813,2021,D,"Shanghai Jiao Tong University, Master's degree"
+Mg100,8,423,146.93644,,,,,,21,https://doi.org/10.27300/d.cnki.gshau.2020.000182,2020,D,"Shanghai University, Master's degree"
+Mg95.82Al3.77La0.32Mn0.09,9,303,85.71398,,,,,,22,https://doi.org/10.27721/d.cnki.gyzjc.2020.000005,2020,D,"Taiyuan University of Science and Technology, Doctoral degree"
+Mg95.82Al3.77La0.32Mn0.09,9,513,96.90811,,,,,,23,https://doi.org/10.27307/d.cnki.gsjtu.2019.000490,2019,D,"Shanghai Jiao Tong University, Doctoral degree"
+Mg95.14Al3.95La0.82Mn0.09,9,483,101.50626,,,,,,24,https://doi.org/10.27061/d.cnki.ghgdu.2019.003133,2019,D,"Harbin Institute of Technology, Master's degree"
+Mg95.13Al3.63La1.15Mn0.09,9,453,122.15038,,,,,,25,https://doi.org/10.27916/d.cnki.ghdeg.2019.000024,2019,D,"Shanghai Second Polytechnic University, Master's degree"
+Mg100,10,473,163,13888888.89,,,,,26,https://doi.org/10.27239/d.cnki.gnhhu.2019.001471,2019,D,"Nanjing University of Aeronautics and Astronautics, Master's degree"
+Mg99.81Zn0.19,11,333,142.28239,,,,,,27,https://doi.org/10.27381/d.cnki.gwlgu.2019.001148,2019,D,"Wuhan University of Technology, Master's degree"
+Mg99.63Zn0.37,11,303,138.14298,,,,,,28,https://kns.cnki.net/kcms2/article/abstract?v=3_cPGLZMhAnWs3yqbkOc1mmJwbLORI0KzFJfaYxpQS2sKmlFEvoL0agLrY1PYwC9YuU7m_8tjnvxHaGPOYvyyxZ_iJOj31Ir_cTK43vtIxcQuZfuwU2TABuDek-VVRhYIJ9zxQKbhZo=&uniplatform=NZKPT&flag=copy,2017,D,"Harbin Institute of Technology, Master's degree"
+Mg99.63Zn0.37,11,513,140.81478,,,,,,29,https://kns.cnki.net/kcms2/article/abstract?v=2R7H8JGA7Exb6yVxlnz05mLaaJqIv8uRRnXrfIlZaI20tfupHnan2wtg1UspG0LAq6xBfRfvG0SNqxcpj2nmQnEwiNW8iUwX6ma_1SLeSe6HuIctHwc_So8iNbnV7Ie539FsBJc7TPQ=&uniplatform=NZKPT&flag=copy,2016,D,"Chongqing University, Doctoral degree"
+Mg99.44Zn0.56,11,483,136.86353,,,,,,30,https://kns.cnki.net/kcms2/article/abstract?v=8dkf_uZKVx1cb4qMYmvhw5AzNtQ3vs9eMEYrVHoYJIL1WWnuZJ6J2nYQMySibyQcA6qjBz7rjG0RaQFoVkvkhHulBa51EzNHkVLhrJE62FxMy5cpygC7nfBYK3HfMNrCDIhvCM24HeE=&uniplatform=NZKPT&flag=copy,2016,D,"Harbin Engineering University, Master's degree"
+Mg99.02Zn0.98,11,453,133.81542,,,,,,31,https://kns.cnki.net/kcms2/article/abstract?v=8dkf_uZKVx2Yel3htzEWmtZDInj-i66CWIYThLgg4aJ8W7vh6MAriCbGdC8LeZBx5zulNUWB9CSv5Msi6ynyElSm3Gn9fr4Ygy64ybKWHR0QrTKcIX_j8JREL_1_pV2arcTwvlNM9hs=&uniplatform=NZKPT&flag=copy,2016,D,"Zhengzhou University, Master's degree"
+Mg98Zn2,11,393,116.73096,,,,,,32,https://kns.cnki.net/kcms2/article/abstract?v=8dkf_uZKVx0ykUf0JRLklqU7pjQrRjXXBEFz5XwFW8ptuiI6u3m3n9YqRJ_q1-Um4TJK-AiwUUh8oQaOgQNDAp-lqz55uK8v6TtxzitQfpSIZ_SVdpTDcNM7AWEB8ylz&uniplatform=NZKPT&flag=copy,2013,D,"General Research Institute for Nonferrous Metals, Doctoral degree"
+Mg98.46Zn1.54,11,423,123.16585,,,,,,33,https://doi.org/10.27724/d.cnki.gnmgk.2020.000578,2012,D,"Inner Mongolia University of Science and Technology, Master's degree"
+Mg100,11,363,154.70061,,,,,,,,,,
+Mg99.13Si0.87,12,423,126.72477,,,,,,,,,,
+Mg98.8Si1.2,12,573,125.33369,,,,,,,,,,
+Mg97.39Si2.61,12,373,114.66147,,,,,,,,,,
+Mg96.52Si3.48,12,473,111.35765,,,,,,,,,,
+Mg100,13,273,157,,,,,,,,,,
+Mg95.03Al3.82Mn0.23Zn0.05Si0.87,14,293,68,,,,,,,,,,
+Mg92.69Al6.94Mn0.11Zn0.26,14,293,51.1,7812500,,,,,,,,,
+Mg91.73Al7.95Zn0.26Mn0.06,14,373,62.37971,6667177.817,,,,,,,,,
+Mg91.46Al8.22Zn0.26Mn0.06,14,323,54.69956,,,,,,,,,,
+Mg98.23Sc1.77,15,373,58.99886,,,,,,,,,,
+Mg95.85Sc4.15,15,373,29.58487,,,,,,,,,,
+Mg94.25Sc5.75,15,373,25.11323,,,,,,,,,,
+Mg93.67Sc6.33,15,373,21.51794,,,,,,,,,,
+Mg91.58Sc8.42,15,373,15.90029,,,,,,,,,,
+Mg88.69Sc11.31,15,373,11.42865,,,,,,,,,,
+Mg99.82Nd0.18,16,298,138.4,,,,,,,,,,
+Mg97.95Zn1.56Mn0.49,17,298,125.5,,,,,,,,,,
+Mg99.14Sm0.86,18,450,92.27519,,,,,,,,,,
+Mg98.9Zn1.1,19,298,130.7,18281535.65,,,,,,,,,
+Mg91.04Y8.96,20,350,28.52634,,,,,,,,,,
+Mg90.59Zn9.41,20,350,89.65096,,,,,,,,,,
+Mg90.08Ca9.92,20,350,99.41835,,,,,,,,,,
+Mg89.3Al10.7,20,350,63.96637,,,,,,,,,,
+Mg99.81La0.19,21,373,154.42523,,,,,,,,,,
+Mg99.68Ce0.32,21,323,121.24244,,,,,,,,,,
+Mg99.63La0.37,21,473,154.34658,,,,,,,,,,
+Mg99.48Ce0.52,21,423,125.40652,,,,,,,,,,
+Mg98.30La0.17Zn1.53,21,323,134.18228,,,,,,,,,,
+Mg98.26Ce0.14Zn1.6,21,523,136.04376,,,,,,,,,,
+Mg97.87La0.36Zn1.77,21,423,129.64369,,,,,,,,,,
+Mg97.54La0.54Zn1.92,21,523,133.95459,,,,,,,,,,
+Mg97.16Ce0.14Zn2.7,21,473,126.71482,,,,,,,,,,
+Mg97.09La0.36Zn2.55,21,373,123.96828,,,,,,,,,,
+Mg96.88Ce0.47Zn2.65,21,373,118.86076,,,,,,,,,,
+Mg96.03La0.54Zn3.43,21,473,126.34425,,,,,,,,,,
+Mg95.57Ce0.5Zn3.93,21,323,110.67767,,,,,,,,,,
+Mg98.43Zn0.39Ag1.18,22,298,118.2,17857142.86,,,,,,,,,
+Mg98.09Ce0.67Al0.97Mn0.27,23,298,127.46108,,,,,,,,,,
+Mg99.89La0.11,24,298,149.12214,22000000,,,,,,,,,
+Mg99.83La0.09Zr0.08,24,298,129.62622,18200000,,,,,,,,,
+Mg99.79La0.21,24,298,146.09752,21200000,,,,,,,,,
+Mg99.71La0.21Zr0.08,24,298,124.34477,17200000,,,,,,,,,
+Mg99.65La0.21Mn0.14,24,298,126.91023,18700000,,,,,,,,,
+Mg99.64La0.09Mn0.27,24,298,121.36474,17500000,,,,,,,,,
+Mg99.62La0.16Mn0.22,24,298,126.40727,17700000,,,,,,,,,
+Mg99.57La0.43,24,298,140.94447,20200000,,,,,,,,,
+Mg99.55La0.09Mn0.36,24,298,122.90116,,,,,,,,,,
+Mg99.48La0.41Zr0.11,24,298,118.9943,16000000,,,,,,,,,
+Mg99.45La0.19Mn0.36,24,298,124.02881,,,,,,,,,,
+Mg99.44La0.56,24,298,136.76762,19500000,,,,,,,,,
+Mg99.2La0.39Mn0.41,24,298,108.95862,,,,,,,,,,
+Mg98.9La1.1,24,298,123.67695,17200000,,,,,,,,,
+Mg98.9La0.11Mn0.99,24,298,91.7518,,,,,,,,,,
+Mg98.96La0.95Zr0.09,24,298,99.88791,14200000,,,,,,,,,
+Mg98.68La0.23Mn1.09,24,298,88,12600000,,,,,,,,,
+Mg98.48La0.47Mn1.05,24,298,87.23646,,,,,,,,,,
+Mg98.46La1.54,24,298,111.81854,15900000,,,,,,,,,
+Mg99.2Zn0.64Mn0.16,25,573,128.24,,,,,,,,,,
+Mg99.16Zn0.61Mn0.14Y0.09,25,298,113.88,,,,,,,,,,
+Mg98.98Zn0.69Mn0.14Y0.19,25,373,118.83,,,,,,,,,,
+Mg98.8Zn0.83Mn0.14Y0.23,25,473,124.67,,,,,,,,,,
+Mg98.85Zn0.89Mn0.14Y0.12,25,423,120.5,,,,,,,,,,
+Mg98.48Zn0.39Y1.13,26,298,51.01936,6851900,,,,,,,,,
+Mg88.92Cu11.08,27,673,143,,,,,,,,,,
+Mg75.96Cu24.04,27,573,120,,,,,,,,,,
+Mg99.93La0.07,28,303,149.96793,,,,,,,,,,
+Mg99.93La0.07,28,513,151.27196,,,,,,,,,,
+Mg99.92Gd0.08,28,393,142.40634,,,,,,,,,,
+Mg99.8Gd0.2,28,363,119.57844,,,,,,,,,,
+Mg99.75La0.25,28,483,141.30195,,,,,,,,,,
+Mg99.48Gd0.52,28,333,82.48309,,,,,,,,,,
+Mg99.33La0.67,28,453,128.24521,,,,,,,,,,
+Mg99.16Gd0.84,28,303,64.78505,,,,,,,,,,
+Mg99.16Gd0.84,28,513,83.66937,,,,,,,,,,
+Mg98.95La1.05,28,423,119.92587,,,,,,,,,,
+Mg97.28Al2.55Gd0.17,28,483,102.51622,,,,,,,,,,
+Mg96.23Al3.64Gd0.13,28,303,79.69984,,,,,,,,,,
+Mg96.23Al3.64Gd0.13,28,513,94.71835,,,,,,,,,,
+Mg95.82Al3.77Mn0.09La0.32,28,483,95.79489,,,,,,,,,,
+Mg95.59Al3.4Mn0.09La0.92,28,423,112.16304,,,,,,,,,,
+Mg95.44Al3.5Mn0.09Ce0.97,28,363,108.67594,,,,,,,,,,
+Mg95.39Al3.59Mn0.09Ce0.69La0.24,28,333,106.36338,,,,,,,,,,
+Mg95.14Al3.95Mn0.09La0.82,28,453,100.16467,,,,,,,,,,
+Mg95.13Al3.63Mn0.09La1.15,28,393,121.40253,,,,,,,,,,
+Mg94.94Al3.97Mn0.09Sr0.12La0.88,28,423,108.97546,,,,,,,,,,
+Mg94.66Al4.07Mn0.09Ca0.26La0.92,28,453,111.52794,,,,,,,,,,
+Mg100,28,333,153.05467,,,,,,,,,,
+Mg99.95Mn0.05,29,523,150.26937,,,,,,,,,,
+Mg99.8Mn0.2,29,448,142.28694,,,,,,,,,,
+Mg99.82Ce0.18,29,298,129.01216,,,,,,,,,,
+Mg99.7Mn0.2Ce0.1,29,523,137.60584,,,,,,,,,,
+Mg99.76Y0.24,29,298,106.26111,,,,,,,,,,
+Mg99.73Mn0.22Ce0.05,29,298,131.47996,,,,,,,,,,
+Mg99.49Mn0.51,29,373,122.59917,,,,,,,,,,
+Mg99.38Gd0.62,29,298,78.06385,,,,,,,,,,
+Mg98.89Zn0.68Mn0.43,29,298,118.5,,,,,,,,,,
+Mg99.14Zn0.73Zr0.13,30,373,121.51565,,,,,,,,,,
+Mg98.99Zn0.76Zr0.25,30,473,128.55312,,,,,,,,,,
+Mg96.76Al2.73Zn0.38Mn0.13,31,298,98.49947,,,,,,,,,,
+Mg96.28Al2.77Zn0.38Mn0.14Sn0.32Sr0.11,31,298,106.70225,,,,,,,,,,
+Mg96.15Al2.78Zn0.38Mn0.14Sn0.21Sr0.34,31,298,109.23975,,,,,,,,,,
+Mg98.4Zn1.17Mn0.43,32,473,121.49089,,,,,,,,,,
+Mg96.38Zn3.17Mn0.45,32,298,87.62192,,,,,,,,,,
+Mg98.88Zn0.79Zr0.14Ce0.19,33,298,113.95576,,,,,,,,,,
